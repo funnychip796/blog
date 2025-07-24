@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://funnychip.is-cool.dev/categories/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/categories/category1/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/posts/my_first_blog/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/posts/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/tags/tag1/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/tags/tag2/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/tags/</loc>
+    <lastmod>2025-06-15T12:38:36+08:00</lastmod>
+  </url><url>
+    <loc>https://funnychip.is-cool.dev/search/</loc>
+  </url>
+</urlset>

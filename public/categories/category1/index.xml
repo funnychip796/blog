@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on funnychip&#39;s Blog</title>
+    <link>https://funnychip.is-cool.dev/categories/category1/</link>
+    <description>Recent content in Category1 on funnychip&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jun 2025 12:38:36 +0800</lastBuildDate>
+    <atom:link href="https://funnychip.is-cool.dev/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first Blog</title>
+      <link>https://funnychip.is-cool.dev/posts/my_first_blog/</link>
+      <pubDate>Sun, 15 Jun 2025 12:38:36 +0800</pubDate>
+      <guid>https://funnychip.is-cool.dev/posts/my_first_blog/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

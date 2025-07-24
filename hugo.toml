@@ -1,0 +1,76 @@
+baseurl = "https://funnychip.is-cool.dev/"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "funnychip's Blog"
+theme = "dream"
+
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
+
+[params]
+zenMode = false
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+author = "funnychip"
+description = "Welcome to my blog bro!"
+avatar = "img/avatar.png"
+headerTitle = "funnychip's Blog"
+motto = "Greetings, my friend!"
+
+# footerBottomText = "Thanks for comming here!"
+
+rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+email = "chips1105@proton.me"
+
+siteStartYear = 2025
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+# stickyNav = true
+reorderNavItems = ["about", "search", "github", "rss", "posts", "categories", "tags"]
+collapseNavItems = ["posts", "tags", "rss"]
+# noDefaultSummaryCover = true
+# showTableOfContents = true
+# showSummaryCoverInPost = true
+# imageZoomableInPost = true
+# showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+[params.navItems]
+github = { href = "https://github.com/funnychip796", target = "_blank", icon = "logo-github", title = "GitHub" }
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
